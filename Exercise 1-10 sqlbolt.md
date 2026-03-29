@@ -1,4 +1,4 @@
-## <center> SQL BOLT
+## <center> SQL BOLT 1-10 
 
 ### Task 1
 ~~~sql
